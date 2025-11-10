@@ -1,8 +1,4 @@
-﻿
-namespace SmartHomeController
+﻿namespace SmartHomeController
 {
-    internal class SmartHomeController
-    {
 
-    }
 }
