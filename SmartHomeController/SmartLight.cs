@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SmartHomeController
 {
-    internal class SmartLight
+    // Smarth light is the subclass of SmartDevice
+    internal class SmartLight : SmartDevice
     {
     }
 }

@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace SmartHomeController
 {
-    internal class SmartThermostat
+    // Smarth thermostat is the subclass of SmartDevice
+    internal class SmartThermostat : SmartDevice
     {
+
     }
 }
